@@ -1,0 +1,29 @@
+KEY  "def" 1 
+ERROR  " " 1 
+ID  "main" 1 
+SYM  "(" 1 
+SYM  ")" 1 
+SYM  "{" 2 
+KEY  "let" 3 
+ERROR  " " 3 
+ID  "a" 3 
+SYM  ";" 3 
+ID  "a" 4 
+ERROR  " " 4 
+SYM  "=" 4 
+ERROR  " " 4 
+DEC  "4" 4 
+ERROR  " " 4 
+SYM  "+" 4 
+ERROR  " " 4 
+DEC  "5" 4 
+SYM  ";" 4 
+KEY  "return" 5 
+ERROR  " " 5 
+ID  "a" 5 
+SYM  ";" 5 
+ERROR  "Â" 6 
+ERROR  "¬" 6 
+ERROR  "Â" 6 
+ERROR  "¬" 6 
+SYM  "}" 7 
